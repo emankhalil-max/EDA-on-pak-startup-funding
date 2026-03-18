@@ -1,0 +1,104 @@
+startup_name,active_opinion_by_cms,location,hq,founded_date,industry_vertical,horizontal,operating_status,funding_status,employees,funding_round_1_investment,founder_round_1_investors,funding_round_1_date,funding_round_2_investment,founder_round_2_investors,funding_round_2_date,primary_industry,city,founders
+Eat Mubarak,Y,"Karachi,Pakistan",Asia-Pacific,2018-01-01,Services,"Ecommerce , online Delivery",Active,Seed,11 to 50,500000.0,Yusuf Jan,2018-01-11,700000.0,Karavan,2019-01-02,Services,Karachi,"Ahmed Alvi, Hyder Abbas, Mian Ahmad"
+Finja,Y,Lahore,Asia-Pacific,2015-01-01,"Financial Exchanges, Financial Services","Mobile Payments, Software",Active,Early Stage Venture,101 to 250,1000000.0,Vostok Emerging Finance,2016-08-02,1500000.0,"Gray Mackenzie Engineering Services, Vostok Emerging Finance",2017-10-18,Financial Exchanges,Lahore,"Monis Rehman, Qasif Shahid, Umer Munawar"
+Airlift Technologies,Y,"Lahore, Punjab, Pakistan",Asia-Pacific,2018-01-01,Transportation,Mobile App,Active,Early Stage Venture,1 to 10,2200000.0,"Fatima Ventures, Indus Valley Capital, Fatima Gobi Ventures, Adil Ajmal",2019-06-08,12000000.0,"Indus Valley Capital, First Round Capital, Fatima Ventures, Curtis Lee",2019-02-11,Transportation,Lahore,"Usman Gul, Ahmed Ayub"
+DealSmash,,Islamabad,Asia-Pacific,,"Retail, Artificial Intelligence","Analytics, ,Artificial Intelligence",Active,Seed,1 to 10,8800000.0,National ICT R&D Fund,2017-05-15,150000.0,Al-Hilal Securties Advisors,2018-02-27,Retail,Islamabad,"Ahsan Vaqar Hundal, Ali Hasnain, Hamza Iftikhar"
+Tajir,Y,"Lahore, Pakistan",Asia-Pacific,2018-01-01,Retail,"B2B, Ecommerce, Marketplace",Active,Seed,11 to 50,150000.0,"Y Combinator , Matt Caspari",2020-03-15,1800000.0,"Fatima Gobi Ventures, Golden Gate, Pioneer Fund, Karavan, VentureSouq",2020-05-06,Retail,Lahore,"Babar Khan, Ismail Khan"
+Ingrain Media,,"Lahore,",Asia-Pacific,2012-01-01,Ai,,Active,Seed,1 to 10,240000.0,,2014-06-19,680000.0,,2015-10-01,Ai,Lahore,"Aamer Zaheer,, Abdul Rehman,, Ali Rehan"
+oladoc.com,Y,"Lahore,",Asia-Pacific,,"Fitness, Wellness",,Active,Seed,51-100,100000.0,Virtual Force Inc.,2016-06-01,1100000.0,Glowfish Capital,2018-02-21,Fitness,Lahore,Abid ZuberiArif Zuberi
+PublishEX (SimPaisa),,"Karachi, Sindh, Pakistan",Asia-Pacific,2016-01-01,Carrier Billing,"Information Services, Information Technology",Active,Seed,11 to 50,,Planet N group of companies,2016-05-03,225000.0,Sarmayacar,2018-02-16,Carrier Billing,Karachi,"Salim Karim, Yassir Pasha"
+Tez Financial Services,Y,"Karachi,Pakistan",Asia-Pacific,2016-01-01,Finanacial Services,"Big data, Analytics",Active,Seed,11 to 50,1100000.0,Omidyar Network,2018-10-19,,,,Finanacial Services,Karachi,"Humza Hussain, Nadeem Hussain, Naureen Hyat"
+Journal Post INC.,Y,"Lahore, Punjab,Pakistan",Asia-Pacific,,News,E- commerce,Active,Angel,11 to 50,100000.0,Muhammad Umar Siddque,2017-10-20,,,,News,Lahore,"Anam Mukhtar, Bilal Nasir, Hafsah Haq"
+Techlets Pvt. Ltd.,,"Islamabad, Pakistan",Asia-Pacific,,Artificial Intelligence,Information Technology,Active,Grant,1 to 10,190000.0,,2017-08-01,50000.0,United States Agency for International Development,2019-07-01,Artificial Intelligence,Islamabad,"Muhammad Ahsan Tahir, Samina Seth"
+Patari,Y,"Lahore, Pakistan",Asia-Pacific,2015-01-01,Entertainment,Music Streaming,Active,Seed,11 to 50,200000.0,Sarmayacar,2016-12-30,,,,Entertainment,Lahore,"Faisal Sherjan, Humayun Haroon, Iqbal Talaat, Khalid Bajwa"
+Sastaticket.pk,Y,"Karachi, Sindh, Pakistan",Asia-Pacific,,Travel Agency,E- commerce,Active,Early Stage Venture,11 to 50,1500000.0,Gobi Partners,2018-11-10,,,,Travel Agency,Karachi,"Bilal Mekhri, Shazil Mekhri"
+Bookme.pk,Y,"Lahore, Punjab,Pakistan",Asia-Pacific,,Ticketing,E- commerce,Active,Seed,11 to 50,120000.0,,2015-06-02,,Lakson Investments Venture Capital,2019-04-20,Ticketing,Lahore,Faizan Aslam
+Sehat Kahani,Y,"Karachi, Sindh, Pakistan",Asia-Pacific,,Health Care,E- commerce,Active,Seed,11 to 50,,,2017-06-29,,"Elahi group of Companies, GSMA Ecosystem Accelerator",2018-03-20,Health Care,Karachi,"Iffat Zafar, Sara Khurram"
+Dawai At Door,,"Lahore, Punjab, Pakistan",Asia-Pacific,,Healthcare,"Mobile Device, Mobile Apps, Personal Health",Active,Seed,10 to 50,150000.0,Muhammad Yousaf Iqbal,2020-06-18,,,,Healthcare,Lahore,"Meerab Malik, Muhammad Ali Yousaf, Muhammad Yousaf Iqbal"
+Marham,Y,"Lahore,",Asia-Pacific,2015-01-01,"Fitness, Wellness",,Active,Seed,11 to 50,,Mohammad Khan,2017-02-03,5000.0,Shazil Sultan,2019-02-09,Fitness,Lahore,Ehsan Imam
+MandiExpress,Y,"Karachi,Pakistan",Asia-Pacific,2015-01-01,Retail,"Grocery, food",Active,Seed,101 to 250,725000.0,Lakson Investments Venture Capital,2020-02-21,,,,Retail,Karachi,"Danyaal Balkhi, Jehanzeb Chaudhri"
+Cheetay,Y,"Lahore, Pakistan",Asia-Pacific,2016-01-01,Logistics,"Delivery, Ecommerce",Active,Early Stage,501 to 1000,7800000.0,,2019-11-09,1100000.0,,2017-01-11,Logistics,Lahore,Ahmed Khan
+Beauty Hooked,,"Lahore, Punjab,Pakistan",Asia-Pacific,,Beauty,E- commerce,Active,Seed,11 to 50,280000.0,Fatima Ventures,2016-08-17,,,,Beauty,Lahore,"Abdullah Ahmed, Sahr Said, Sidra Talha"
+Tier3 Pakistan,,Islamabad,Asia-Pacific,,"Cyber Security, Information Technology, Security",Information Services,Active,Seed,1 to 10,,"Lawrence Kenneth Griffin, Suhail Tirmizi",2016-05-08,10000.0,Suhail Tirmizi,2017-01-04,Cyber Security,Islamabad,Suhail Tirmizi
+ProCheck,,Karachi,Asia-Pacific,2019-01-01,"Health Care, Information Technology",,Active,Seed,1 to 10,250000.0,"Sarmayacar, Elastica",2017-04-13,210000.0,Sarmayacar,2020-02-28,Health Care,Karachi,Saim Siddiqui
+EcoEnergy,,"Karachi, Sindh, Pakistan",Asia-Pacific,,Energy,Social entrepreneurship,Active,Seed,11 to 50,500000.0,Trine,2018-10-05,,,,Energy,Karachi,"Jeremy Higgs, Shazia Khan"
+CertCars.com,,"Karachi, Sindh, Pakistan",Asia-Pacific,2017-01-01,Retail,"Automotive, Classified",Active,Seed,1 to 10,50000.0,"Shayaan Tahir, Homeshopping.pk",2017-05-30,,,,Retail,Karachi,"Fahad Hassan, Shayaan Tahir"
+Bykea,Y,"Karachi, Sindh, Pakistan",Asia-Pacific,,Transportation,"Ride sharing, Courier service, local shopping",Active,Early Stage Venture,101 to 250,57000000.0,"Sarmayacar,Middle East Venture Partners (MEVP)",2019-04-29,,,,Transportation,Karachi,Muneeb Maayr
+Bazaar Technologies,,"Karachi, Sindh, Pakistan",Asia-Pacific,,Retail,"B2B,E-commerce",Active,Pre-Seed,11 to 50,1300000.0,"Indus Valley Capital, Alter Global",2020-01-06,,,,Retail,Karachi,"Hamza Jawaid, Saad Jangda"
+Peekaboo Guru,Y,Karachi,Asia-Pacific,,Location Based Services,Lifestyle,Active,Seed,1 to 10,50000.0,Oman Technology Fund,2018-01-01,,,,Location Based Services,Karachi,Mehdi Hassan Haryani
+Screen-IT,Y,"Lahore, Punjab,Pakistan",Asia-Pacific,,Advertising,Marketing,Active,Seed,1 to 10,250000.0,Coeus Solutions,2020-01-08,,,,Advertising,Lahore,Hamza Malik
+UpSkill,,"Islamabad, Pakistan",Asia-Pacific,,E-Learning,Education,Active,Seed,1 to 10,1400000.0,,2016-04-13,,,,E-Learning,Islamabad,"Abdul Basit, Aly Abbas Dilawar, Zeshan Jahangir"
+Entertainer Asia - Vouch365,,"Karachi, Sindh, Pakistan",Asia-Pacific,,"Beauty, Fitness",Retail,Active,Seed,11 to 50,500000.0,,2015-03-29,500000.0,,2016-02-10,Beauty,Karachi,Faizan Lakhani
+Daftarkhwan,Y,"Lahore, Punjab, Pakistan",Asia-Pacific,,Workspace,Co-working,Active,Seed,11 to 50,,Walled City Co,2018-12-06,,,,Workspace,Lahore,"Ahmad Habib, Saad Idrees"
+Integry,Y,Islamabad,Asia-Pacific,,"Paas, Saas, Softwares",,Active,Seed,11 to 50,500000.0,Silicon Badia,2018-09-30,,,,Paas,Islamabad,"Muhammad Nasrullah, Yasir Farooqui"
+Car Chabi,Y,"Lahore,",Asia-Pacific,2015-01-01,It,,Active,Seed,1 to 10,150000.0,Treet Group Of Companies,2017-01-27,,,,It,Lahore,"Hammad Yasir,, Muhammad Ali Rashid"
+Tello Talk,Y,"Karachi,Pakistan",Asia-Pacific,2017-01-01,Communication,"Mobile App, Software",Active,Seed,11 to 50,1600000.0,SparkLabs Ventures,2019-02-11,,,2019-01-12,Communication,Karachi,
+MangoBaaz,Y,"Lahore, Pakistan",Asia-Pacific,2015-01-01,Entertainment,"Content, Video production",Active,Seed,11 to 50,115000.0,Fatima Ventures,2016-12-14,,,,Entertainment,Lahore,Ali Ahsan
+AutoSahulat,,"Lahore, Pakistan",Asia-Pacific,2018-01-01,Support,"Marketplace, Automotive",Active,Seed,1 to 10,100000.0,Antler,2018-05-09,,,,Support,Lahore,"Ghazanfar Iqbal, Mohsin Amjad"
+Trellis Housing Finance Limited,,"Karachi,Pakistan",Asia-Pacific,,Fintech,financial services,Active,Seed,1 to 10,300000.0,,2019-01-12,,,,Fintech,Karachi,"Jamshed Meherhomji, Jamshed Meherhomji, Samuel Hjelmfelt"
+Elite Maker,,"Islamabad, Pakistan",Asia-Pacific,,Clothing,Information Technology,Active,Pre-Seed,11 to 50,3000.0,,2019-12-17,,,,Clothing,Islamabad,"Hamza Tariq, Haris Imtiaz"
+InstaCare,Y,"Lahore, Punjab,Pakistan",Asia-Pacific,,Health Care,SaaS,Active,Seed,11 to 50,140000.0,,2020-01-16,,,,Health Care,Lahore,Bilal Amjad
+CarFirst,Y,"Lahore, Punjab, Pakistan",Asia-Pacific,2016-01-01,Retail,"Automotive, Classified",Active,Early Stage Venture,101 to 250,89000000.0,Frontier Car Group,,,,,Retail,Lahore,Raja Murad Khan
+CYKIQ Technologies,Y,"Islamabad,Pakistan",Asia-Pacific,2017-01-01,Transport,Sharing economy,Active,Seed,1 to 10,50000.0,,2017-06-06,,,,Transport,Islamabad,Hamza Afridi
+24seven.pk,,"Lahore,",Asia-Pacific,,E-Commerce,,Active,Seed,11 to 50,500000.0,Jarrar Shah,2018-12-15,,,,E-Commerce,Lahore,"Nabil Shahzad, Jarrar Shah"
+Inov8 Logo,,"Lahore,",Asia-Pacific,2004-01-01,Financial Services,,Active,Early Stage Venture,101-250,5400000.0,Nahyan bin Mubarak Al Nahyan,2015-10-30,,,,Financial Services,Lahore,"Bashir Sheikh, Hasnain Sheikh"
+PriceOye,Y,Islamabad,Asia-Pacific,2015-01-01,,,Active,Seed,,450000.0,Fatima Ventures,2019-11-02,,,,Unknown,Islamabad,"Adeel Shaffi, Adnan Shaffi, Awais Imran"
+Rozee.pk,Y,"Lahore,",Asia-Pacific,2006-01-01,Career Planning,,Active,Late Stage Venture,501-1000,6500000.0,"Piton Capital, Vostok New Ventures",2015-05-21,,,,Career Planning,Lahore,Monis Rahman
+Trukkr,,"Karachi,Pakistan",Asia-Pacific,2019-01-01,Logistics,Warehousing,Active,Seed,11 to 50,,,2019-01-07,,,,Logistics,Karachi,"Hisham Adamjee, Kasra Zunnaiyyer, Mishal Adamjee"
+MeraPlan,,"Islamabad,Pakistan",Asia-Pacific,2016-01-01,Travel,Tourism,Active,Seed,11 to 50,10000.0,,2015-01-02,,,,Travel,Islamabad,"Ashar Jamil, Danish Fayaz"
+Sukoon,,"Karachi,Pakistan",Asia-Pacific,2014-01-01,Services,Ecommerce,Active,Seed,11 to 50,,Crescent Ventures,2016-01-28,,,,Services,Karachi,"Qazi Umair, Shoaib Iqbal"
+Life Circle Health Services,,"Hyderabad, Pakistan",Asia-Pacific,2012-01-01,Health-Care,Nursing,Active,Seed,11 to 50,150000.0,,2016-12-05,,,,Health-Care,Hyderabad,"Anant Kumar, Priya Anant"
+Bag Tech,,"Sialkot, Pakistan",Asia-Pacific,2003-01-01,Retail,Lifestyle,Active,Seed,,2500000.0,,2003-01-07,8300000.000000001,Auriga Partners,2005-01-07,Retail,Sialkot,
+Charcoal + Gravel,,"Lahore, Punjab,Pakistan",Asia-Pacific,,Entertainment,Information Technology,Active,Pre-Seed,1 to 10,70000.0,Humayun Mazhar,2017-12-15,,,,Entertainment,Lahore,Shameel Mazhar
+AzaadHealth,,"Karachi, Sindh, Pakistan",Asia-Pacific,,Medical,Big Data,Active,Seed,1 to 10,,,2018-03-30,,,,Medical,Karachi,"Inam Haq, Rehan uddin, Syed Abrar"
+Find my Doctor,Y,"Karachi, Sindh, Pakistan",Asia-Pacific,,Health Care,Wellness,Active,Seed,11 to 50,200000.0,,2017-09-11,,,,Health Care,Karachi,Saad Siddiqui
+Affordable.pk,,"Lahore, Punjab, Pakistan",Asia-Pacific,2014-01-01,Retail,E-commerce,Active,Seed,1 to 10,100000.0,CresVenture,2017-03-22,,,,Retail,Lahore,Wajiha Ghazal
+Snapthat,,"Islamabad, Islamabad, Pakistan",Asia-Pacific,,Technology,Artificial Intelligence,Active,Angel,1 to 10,20000.0,,2019-12-22,,,,Technology,Islamabad,"Muhammad Haris Bin Naeem, Muhammad Harris"
+AugmentCare,Y,Lahore,Asia-Pacific,,"Health Care, Medical",,Active,Seed,11 to 50,1000000.0,"Fazal Din Group, Leonine Tech Ventures",2017-10-27,,,,Health Care,Lahore,Hyder Mumtaz
+Auto Genie,Y,Lahore,Asia-Pacific,2014-01-01,"Automotive, Online Portals",,Active,Seed,11 to 50,100000.0,,2015-09-28,,,,Automotive,Lahore,"Abdullah Cheema, Hamza Abbas Bakhsh"
+GrocerApp,Y,Lahore,Asia-Pacific,,"E-Commerce, Food & Beverage, Fashion",,Active,Seed,11 to 50,,Walled City Co,2019-09-05,,,,E-Commerce,Lahore,"Ahmad Saeed, Hassaan Sadiq"
+Meru Car Services,,"Lahore, Punjab, Pakistan",Asia-Pacific,,Cleaning Services,"Mobile App, Information Technology",Active,Pre-Seed,11 to 50,,,2020-06-29,,,,Cleaning Services,Lahore,"Meerab Malik, Muhammad Ali Yousaf, Muhammad Yousaf Iqbal"
+Amplifyd,,Lahore,Asia-Pacific,,"Analytics, Information Technology","Social Media Marketing, Brand Marketing",Active,Seed,1 to 10,70000.0,,2019-07-10,,,,Analytics,Lahore,"Adil Sarwar, Murad Hasan"
+InteraCta,,Lahore,Asia-Pacific,,"Apps, Information Technology",Real Estate,Active,Seed,11 to 50,220000.0,Fatima Ventures,2015-05-26,,,,Apps,Lahore,Muhammad Maaz Kamal
+VisioTech Solutions,,Islamabad,Asia-Pacific,,"Financial Services, Management Consulting",,Active,Seed,11 to 50,250000.0,Microsoft for Startups,2016-01-18,,,,Financial Services,Islamabad,"Adeel Javaid, Faisal Yasin"
+SystematicBytes,,"Lahore, Punjab, Pakistan",Asia-Pacific,2010-01-01,It Services,"E-commerce,CRM,Enterprise software, ios, web development, software",Active,Seed,1 to 10,10000.0,,2010-01-01,,,,It Services,Lahore,Nauman Qazi
+Mauqa Online,Y,Islamabad,Asia-Pacific,2017-01-01,Customer Service,,Active,Seed,1 to 10,,"Queno, i2i Ventures, Karavan",2019-08-06,,,,Customer Service,Islamabad,Muhammad Mustafa
+Roamer,,"Islamabad, Pakistan",Asia-Pacific,,Car Sharing,Information Technology,Active,Seed,11 to 50,,,2020-01-08,,,,Car Sharing,Islamabad,"Ali Moeen Malik, Mohammad Hadi"
+Consuldents,,Islamabad,Asia-Pacific,,"Training, Professional Services",,Active,Seed,11 to 50,15000.0,Khurram Lalani,2016-04-06,,,,Training,Islamabad,Anum Thanvi
+Fotisto,,Lahore,Asia-Pacific,,"Artificial Intelligence, Crm, Saas","Content Creators, Photography",Active,Seed,1 to 10,15000.0,,2019-02-01,,,,Artificial Intelligence,Lahore,Haider Tariq Rashid Awan
+ProPakistani,Y,Islamabad,Asia-Pacific,,"Digital Media, Information Technology",,Active,Early Stage Venture,1 to10,,"Eikon 7,The Interactive Group,Umayr Abbasi, Usman Yousuf",2019-07-26,,,,Digital Media,Islamabad,Aamir Attaa
+She´Kab,,Islamabad,Asia-Pacific,,"Information Technology, Transportation",,Active,Seed,1 to 10,150000.0,Katapult Accelerator,2017-07-31,,,,Information Technology,Islamabad,Hira Rizvi
+Healthcare Matrix,,"Karachi,",Asia-Pacific,2016-01-01,,,Active,Seed,1 to 10,,,2016-05-11,2200.0,,2018-12-16,Unknown,Karachi,"Juwairiah Zia,, Samreen Hussain,, Talha Tariq"
+PakWheels.com,Y,Gulberg,Asia-Pacific,,Automotive,,Active,Early Stage Venture,101-250,3500000.0,Frontier Digital Ventures,2014-10-31,,,,Automotive,Lahore,
+Phone bech dou,,"Lahore, Punjab,Pakistan",Asia-Pacific,,Mobile,Mobile devices,Active,Seed,1 to 10,1000000.0,,2018-07-01,,,,Mobile,Lahore,Mikhail alam
+beSpider,,"Gujrat, Punjab, Pakistan",Asia-Pacific,2012-01-01,It Services,"Web development, Mobile App",Active,Seed,1 to 10,10000.0,,2012-08-02,,,,It Services,Gujrat,Zagham Naseem
+Nearpeer.org,Y,"Lahore,",Asia-Pacific,,,,Active,Seed,1 to 10,100000.0,,2015-10-25,,,,Unknown,Lahore,"Ammar Ali Ayub, Muhammad Hassan Raza,, Shahrukh Swati"
+FindMyAdventure,Y,"Karachi, Sindh, Pakistan",Asia-Pacific,,Adventure Travel,E- commerce,Active,Seed,11 to 50,,,2019-03-13,,,,Adventure Travel,Karachi,Muhammad Komail Abbas
+Telemart,,"Karachi,",Asia-Pacific,2014-01-01,E-Commerce,,Active,Seed,51-100,800000.0,,2014-02-05,,,,E-Commerce,Karachi,"Hamza Abdul Rauf Essa, Ahmed Rauf Essa"
+MTA Games Lab,,"Karachi, Sindh, Pakistan",Asia-Pacific,,E-Gaming,E- commerce,Active,Angel,,5500.0,Kamran Yousuf,2014-02-03,,,,E-Gaming,Karachi,Muhammad Taha Alam
+sabzi.pk,,"Lahore, Punjab,Pakistan",Asia-Pacific,,Food,E- commerce,Active,Seed,1 to 10,,,2016-07-18,,,,Food,Lahore,"Farooq Haider, Mafooq Ahmad"
+Naseeb Networks,,"Lahore,",Asia-Pacific,2003-01-01,E-Commerce,,Active,Late Stage Venture,51-100,,,2003-12-01,2000000.0,,2008-02-02,E-Commerce,Lahore,Monis Rahman
+The Nest I/O,,Karachi,Asia-Pacific,2014-01-01,"Incubator, Information Technology",Information Services,Active,Seed,11 to 50,5000000.0,,2017-05-30,,,,Incubator,Karachi,Jehan Ara
+Baseh Technologies,,"Karachi,Pakistan",Asia-Pacific,2017-01-01,Information Technology,Artificial Intelligence,Active,Seed,11 to 50,,Elahi Group of Companies,2019-01-29,,,,Information Technology,Karachi,Anis Shiekh
+Shopistan Logo,Y,"Lahore,",Asia-Pacific,2013-01-01,E-Commerce,,Active,Seed,51-100,300000.0,,2013-12-23,,,,E-Commerce,Lahore,Ali Aziz
+Proqura,,"Lahore,",Asia-Pacific,,Procurement,,Active,Seed,11 to 50,250000.0,,,330000.0,,2017-12-15,Procurement,Lahore,Haroon Sethi
+PERKUP,,"Karachi,",Asia-Pacific,2015-01-01,Advertising,,Active,Seed,11 to 50,140000.0,,2016-03-26,,,,Advertising,Karachi,"Abdullah Soomro, Hasan Qureshi"
+AdBira Network,,Faisalabad,Asia-Pacific,,Advertising,,Active,Late Stage Venture,51-100,,,2013-02-05,1300000.0,,2013-11-15,Advertising,Faisalabad,
+SadaPay,Y,"Islamabad, Islamabad, Pakistan",Asia-Pacific,,Fintech,"Banking, Financial services",Active,Seed,11 to 50,,,,,,,Fintech,Islamabad,Brandon Tminsky
+DOSAFAR,,Karachi,Asia-Pacific,,"Fleet Management, Logistics, Transportation",,Active,Seed,11 to 50,65000.0,Tricap Investments,2016-03-10,,,,Fleet Management,Karachi,
+MediaTok,,"Islamabad,Pakistan",Asia-Pacific,2019-01-01,Digital Media,"Publishing, News",Active,Seed,1 to 10,,,2020-03-20,,,,Digital Media,Islamabad,Fahad Waheed Khan
+Orbit-Ed,,"Islamabad, Islamabad, Pakistan",Asia-Pacific,,Education,"App, Online",Active,Seed,,,"Startupbootcamp, Startupbootcamp Commerce Amsterdam",2018-01-01,,,,Education,Islamabad,"Navera Waheed, Wajiha Habib"
+MeriTaleem,,"Islamabad,Pakistan",Asia-Pacific,2013-01-01,Education,Education consultancy,Active,Seed,1 to 10,,,2014-08-21,,,,Education,Islamabad,Usama Shahid Khan
+Dheere Bolo,,Islamabad,Asia-Pacific,2014-01-01,"Education, Content",,Active,Seed,,,Invest2Innovate,2014-08-21,,,,Education,Islamabad,Nadine Murtaza
+Souchaj Couture Company,,Lahore,Asia-Pacific,2017-01-01,Fashion,,Active,Seed,11 to 50,,Walled City Co,2017-07-02,,,,Fashion,Lahore,
+PriceMatch,,"Lahore, Pakistan",Asia-Pacific,2012-01-01,Retail,Ecommerce,Active,Seed,,90000.0,,2012-12-13,,,,Retail,Lahore,
+tocal,,"Lahore, Punjab,Pakistan",Asia-Pacific,,Local Advertising,Internet,Active,Seed,1 to 10,,,2018-02-01,,,,Local Advertising,Lahore,
+Inaaya,,"Karachi,Pakistan",Asia-Pacific,2012-01-01,Retail,Fashion,Active,Seed,,,,2014-08-21,,,,Retail,Karachi,Naushaba Brohi
+Mad IT House,,Rawalpindi,Asia-Pacific,,Iot,,Active,Seed,1 to 10,,,2017-01-25,,,,Iot,Rawalpindi,Haseeb Ur Rehman
+ImaGyn Technologies,,"Karachi, Sindh, Pakistan",Asia-Pacific,,Management,"Information Technology, Database",Active,Seed,11 to 50,,,,,,,Management,Karachi,
+Freight Express International,,"Karachi,Pakistan",Asia-Pacific,,Logistics,"Delivery, Freight",Active,Early Stage,,,Inaara Impact Ventures,2019-05-28,,,,Logistics,Karachi,
+Technifai,,"Karachi,",Asia-Pacific,2018-01-01,E-Commerce,,Active,Seed,,,"Danish Elahi, Jonas Eichhorst",2019-04-10,,,,E-Commerce,Karachi,
+Appography,,"Lahore, Punjab, Pakistan",Asia-Pacific,2013-01-01,Technology,Mobile App,Active,Seed,,,,,,,,Technology,Lahore,
+Fori Mazdoori,,Islamabad,Asia-Pacific,,Employment,,Active,Seed,,,PeaceTech Accelerator,2018-10-05,,,,Employment,Islamabad,
+EasyCab,,"Lahore,",Asia-Pacific,,Travel,,Active,Seed,,,,2016-01-01,,,,Travel,Lahore,
+devContact,,"Lahore,",Asia-Pacific,,,,Active,Seed,,100000.0,,2014-11-17,,,,Unknown,Lahore,
